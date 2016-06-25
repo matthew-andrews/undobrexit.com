@@ -21,7 +21,6 @@ font-size: 19px;
 }
 .header__title {
 	font-size: 2em;
-	padding: 10px;
 	letter-spacing: -1px;
 }
 .header__title, .header__title:hover {
