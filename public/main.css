@@ -1,0 +1,71 @@
+#mc_embed_signup{
+	font:14px Helvetica,Arial,sans-serif; width:60%;
+}
+
+body {
+font-size: 19px;
+	font-family: Helvetica;
+	margin: 0;
+	padding: 0;
+}
+.wrapper {
+	margin: 0 auto;
+	max-width: 910px;
+	padding: 0 5px 0 5px;
+}
+.header {
+	background: green;
+	padding: 10px;
+	min-height: 52px;
+	background: #EEE;
+}
+.header__title {
+	font-size: 2em;
+	padding: 10px;
+	letter-spacing: -1px;
+}
+.header__title, .header__title:hover {
+	line-height: 52px;
+	text-decoration: none;
+}
+.undo {
+	color: #dc0c15;
+	text-transform: lowercase;
+	font-weight: bold;
+}
+.brexit {
+	color: #253b88;
+	font-weight: bold;
+	text-transform: lowercase;
+}
+.dotcom {
+	color: #aaa;
+}
+
+a {
+	color: #253b88;
+}
+a:hover {
+	text-decoration: underline;
+	color: #276dad;
+}
+
+.littlepoint {
+	font-size: 0.8em;
+	margin: 0.6em;
+}
+
+.point {
+	background: #f3f2f2;
+	padding: 0.5em;
+	margin: 1em;
+	line-height: 130%;
+}
+
+.point__title {
+	font-weight: bold;
+}
+
+h3 {
+	margin-top: 2em;
+}
